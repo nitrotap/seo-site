@@ -9,7 +9,8 @@ Starting with "starter code", add semantic HTML elements to bring the site up to
 
 ## Challenge Assignment Acceptance Criteria
 
-Task:
+Tasks:   
+
 Rework css by consolidating css selectors and properties (lots of duplicate CSS rules) by organizing them to follow the semantic structure of html elements   
 
 Include comments before each element or section of the page    
@@ -26,7 +27,7 @@ Title element has concise, descriptive title
 
 <br />
 
-## Grading requirements
+## Grading requirements   
 Links all function correctly   
 
 CSS selectors and properties are consolidated and organized to follow semantic structure   
