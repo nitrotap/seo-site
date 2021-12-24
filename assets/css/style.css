@@ -22,11 +22,10 @@ header h1 {
     font-size: 48px;
 }
 
-header h1 .seo {
+.seo {
     color: #d9dcd6;
 }
 /* END HEADER STYLES */
-
 
 /* START NAV STYLES */
 nav {
