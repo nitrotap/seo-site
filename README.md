@@ -2,7 +2,7 @@
 
 [Deployed at https://nitrotap.github.io/seo-site/](https://nitrotap.github.io/seo-site/)
 
-## Project Summary
+## Application Summary
 Starting with "starter code", add semantic HTML elements to bring the site up to HTML5 standards. This repository uses GitHub Pages to deploy a website for an organization specializing in SEO. The site meets all acceptance critera and grading requirements as defined.
 
 <br />
@@ -11,7 +11,7 @@ Starting with "starter code", add semantic HTML elements to bring the site up to
 
 
 
-## Challenge Assignment Acceptance Criteria
+## Acceptance Criteria
 
 Tasks:   
 
@@ -31,7 +31,7 @@ Title element has concise, descriptive title (complete)
 
 <br />
 
-## Grading requirements   
+## Requirements Checklist  
 Links all function correctly (complete)   
 
 CSS selectors and properties are consolidated and organized to follow semantic structure (complete)   
@@ -55,14 +55,6 @@ Repository contains multiple descriptive commit messages (complete)
 Repository contains quality README file with description, screenshot, and link to deployed application.  (complete) 
 
 <br />
-SUBMIT:   
-
-The URL of the deployed application.   
-
-The URL of the GitHub repository that contains your code.    
-
-Give the repository a unique name and include a README file that describes the project.
-
 
 ---
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
